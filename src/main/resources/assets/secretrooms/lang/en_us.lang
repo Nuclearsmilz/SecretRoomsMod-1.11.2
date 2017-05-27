@@ -2,13 +2,13 @@
 itemGroup.secretrooms.general=Secret Blocks
 
 # chat messages
-#message.secretroomsmod.oneWay.towards=-- !!! OneWayBlock facing set to Towards !!! --
-#message.secretroomsmod.oneWay.away=-- !!! OneWayBlock facing set to Away !!! --
-#message.secretroomsmod.commandShow.show=Camo blocks made obvious
-#message.secretroomsmod.commandShow.hide=Camo blocks made secret
+#message.secretrooms.oneWay.towards=-- !!! OneWayBlock facing set to Towards !!! --
+#message.secretrooms.oneWay.away=-- !!! OneWayBlock facing set to Away !!! --
+#message.secretrooms.commandShow.show=Camo blocks made obvious
+#message.secretrooms.commandShow.hide=Camo blocks made secret
 
 # keybindings
-#key.secretroomsmod.oneWayface=Toggle OneWay face
+key.secretrooms.oneWayface=Toggle OneWay face
 
 # blocks
 #tile.TorchLever.name=Torch Lever

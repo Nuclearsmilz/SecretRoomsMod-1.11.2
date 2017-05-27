@@ -13,13 +13,12 @@ import nuke.secretrooms.client.util.*;
 
 @Mod.EventBusSubscriber
 public class SecretRooms {
-	
 	@Instance(References.MODID)
 	public static SecretRooms instance;
 
 	@SidedProxy(clientSide = References.CLIENT_PROXY_CLASS)
 	public static CommonProxy proxy;
-	
+
 	@EventHandler
 	public void preInit( FMLPreInitializationEvent e ) {
 		this.proxy.preInit(e);
@@ -47,7 +46,7 @@ public class SecretRooms {
 			return new ItemStack(Items.OAK_DOOR);
 		}
 	};
-	
+
 	public static String prependModID( String name ) {
 		return References.MODID + ":" + name;
 	}
