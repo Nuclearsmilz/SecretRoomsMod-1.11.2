@@ -1,0 +1,16 @@
+[
+{
+  "modid": "secretrooms",
+  "name": "Secret Rooms",
+  "description": "The Unnofficial Official SecretRoomsMod 1.11.2 Port",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AbrarSyed, Nuclearsmilz"],
+  "credits": "The Forge and FML guys, AbrarSyed for the original mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
